@@ -1,0 +1,7 @@
+[
+  {"name": "Nyan",
+    "description": "a personalized AI assistant",
+    "profile_image": "docs/img/personalities/nyan.png",
+    "chat_src": "https://www.steamship.com/embed/chat?userHandle=feattzen&workspaceHandle=nyan-ai&instanceHandle=nyan-ai"
+  }
+]
